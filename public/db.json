@@ -1,0 +1,144 @@
+{
+  "books": [
+    {
+      "id": 0,
+      "imageUrl": "https://cv2.litres.ru/pub/c/elektronnaya-kniga/cover_415/67087120-vladimir-aleksandrovich-suhinin-po-lezviu-nozha.jpg",
+      "name": "По лезвию ножа",
+      "types": [0, 1],
+      "rating": 4.7,
+      "price": 249,
+      "author": "Владимир Сухинин",
+      "category": 0
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://cv9.litres.ru/pub/c/elektronnaya-kniga/cover_185/66081894-sergey-lukyanenko-tri-dnya-indigo.jpg",
+      "name": "Три дня Индиго",
+      "types": [0, 1],
+      "rating": 4.8,
+      "price": 349,
+      "author": "Сергей Лукьяненко",
+      "category": 0
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://cv2.litres.ru/pub/c/elektronnaya-kniga/cover_185/25440524-frenk-gerbert-duna-pervaya-trilogiya.jpg",
+      "name": "Дюна. Первая трилогия",
+      "types": [0, 1],
+      "rating": 4.4,
+      "price": 749,
+      "author": "Фрэнк Герберт",
+      "category": 0
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_415/67071969-dem-mihaylov-perekrestok-odinochestva-3.jpg",
+      "name": "ПереКРЕСТок одиночества – 3",
+      "types": [0, 1],
+      "rating": 4.8,
+      "price": 749,
+      "author": "Дем Михайлов",
+      "category": 0
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_415/67103358-vladimir-poselyagin-sobiratel.jpg",
+      "name": "Собиратель",
+      "types": [0, 1],
+      "rating": 4.8,
+      "price": 449,
+      "author": "Владимир Поселягин",
+      "category": 0
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_250/67025660-anna-orehova-stambul-podslushannoe-ubiistvo.jpg",
+      "name": "Стамбул. Подслушанное убийство",
+      "types": [0, 1],
+      "rating": 4.9,
+      "price": 549,
+      "author": "Анна Орехова",
+      "category": 1
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_415/66665566-uliya-efimova-17531856-ostrov-trinadcati-prigovorennyh.jpg",
+      "name": "Остров тринадцати приговоренных",
+      "types": [0, 1],
+      "rating": 4.5,
+      "price": 429,
+      "author": "Юлия Ефимова",
+      "category": 1
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_415/6375365-andzhey-sapkovskiy-vedmak.jpg",
+      "name": "Ведьмак",
+      "types": [0, 1],
+      "rating": 4.8,
+      "price": 629,
+      "author": "Анджей Сапковский",
+      "category": 2
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://cv1.litres.ru/pub/c/elektronnaya-kniga/cover_415/65550216-marina-surzhevskaya-22364624-orden-lino-era-ispolneniya-zhelaniy.jpg",
+      "name": "Орден Лино. Эра исполнения желаний",
+      "types": [0, 1],
+      "rating": 4.8,
+      "price": 229,
+      "author": "Марина Суржевская",
+      "category": 2
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://cv8.litres.ru/pub/c/pdf-kniga/cover_415/66387784-anna-kotova-19118295-umnoe-vyazanie-novye-vozmozhnosti-treh-koket-66387784.jpg",
+      "name": "Умное вязание. Новые возможности трех кокеток. Конструктор бесшовных плечевых изделий из любой пряжи и на любой размер",
+      "types": [0, 1],
+      "rating": 4.4,
+      "price": 629,
+      "author": "Анна Котова",
+      "category": 3
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://cv8.litres.ru/pub/c/pdf-kniga/cover_415/55700185-betti-edvards-otkroyte-v-sebe-hudozhnika-55700185.jpg",
+      "name": "Откройте в себе художника",
+      "types": [0, 1],
+      "rating": 4.3,
+      "price": 429,
+      "author": "Бетти Эдвардс",
+      "category": 3
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://cv7.litres.ru/pub/c/elektronnaya-kniga/cover_415/48508375-edit-eva-eger-vybor.jpg",
+      "name": "Выбор. О свободе и внутренней силе человека",
+      "types": [0, 1],
+      "rating": 4.8,
+      "price": 599,
+      "author": "Эдит Ева Эгер",
+      "category": 3
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://cv0.litres.ru/pub/c/elektronnaya-kniga/cover_415/67143202-nikolay-svechin-na-krau.jpg",
+      "name": "На краю",
+      "types": [0, 1],
+      "rating": 4.5,
+      "price": 379,
+      "author": "Николай Свечин",
+      "category": 2
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://cv7.litres.ru/pub/c/elektronnaya-kniga/cover_415/64008473-sergey-lukyanenko-sem-dney-do-megiddo.jpg",
+      "name": "Семь дней до Мегиддо",
+      "types": [0, 1],
+      "rating": 4.8,
+      "price": 399,
+      "author": "Сергей Лукьяненко",
+      "category": 2
+    }
+   ]
+}

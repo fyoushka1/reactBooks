@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61ddec25-6919-45c1-b73d-69ba58980d16" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23bCqcHHqNiwHfUvcN4ILW5eq3O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/img" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cools\Documents\reactproject\shop\src\components\Header" />
+      <recent name="C:\Users\cools\Documents\reactproject\shop\public" />
+      <recent name="C:\Users\cools\Documents\reactproject\shop\src\page\Cart" />
+      <recent name="C:\Users\cools\Documents\reactproject\shop\src\assets" />
+      <recent name="C:\Users\cools\Documents\reactproject\shop\src\scss" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cools\Documents\reactproject\shop\src\assets\img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61ddec25-6919-45c1-b73d-69ba58980d16" name="Default Changelist" comment="" />
+      <created>1641993590510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641993590510</updated>
+      <workItem from="1641993593243" duration="3360000" />
+      <workItem from="1642403859590" duration="610000" />
+      <workItem from="1644129121158" duration="7507000" />
+      <workItem from="1644160567621" duration="1828000" />
+      <workItem from="1644231397540" duration="15315000" />
+      <workItem from="1644300971904" duration="5225000" />
+      <workItem from="1644498564281" duration="5337000" />
+      <workItem from="1644651891651" duration="3062000" />
+      <workItem from="1644661303075" duration="849000" />
+      <workItem from="1644662926240" duration="75000" />
+      <workItem from="1644663016509" duration="7153000" />
+      <workItem from="1644680028292" duration="3350000" />
+      <workItem from="1644769107072" duration="2921000" />
+      <workItem from="1644842617832" duration="1789000" />
+      <workItem from="1644925297982" duration="1190000" />
+      <workItem from="1645026969533" duration="1379000" />
+      <workItem from="1645028888162" duration="4000" />
+      <workItem from="1645087287203" duration="6135000" />
+      <workItem from="1645179942983" duration="14630000" />
+      <workItem from="1645286912015" duration="4453000" />
+      <workItem from="1645461918299" duration="1746000" />
+      <workItem from="1645547330692" duration="2082000" />
+      <workItem from="1645626108807" duration="1078000" />
+      <workItem from="1645812763789" duration="2907000" />
+      <workItem from="1645899715294" duration="847000" />
+      <workItem from="1645945431740" duration="4299000" />
+      <workItem from="1646310162567" duration="1766000" />
+      <workItem from="1646677021309" duration="2185000" />
+      <workItem from="1646757208454" duration="3688000" />
+      <workItem from="1646820760957" duration="5502000" />
+      <workItem from="1647015994689" duration="3562000" />
+      <workItem from="1647099831912" duration="1207000" />
+      <workItem from="1647103429309" duration="7639000" />
+      <workItem from="1647151902152" duration="20386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1033" y="314" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647104878457">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1033" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1647104878457" />
+    <state x="620" y="260" key="FileChooserDialogImpl" timestamp="1642407259367">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="260" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1642407259367" />
+    <state x="397" y="173" key="SettingsEditor" timestamp="1644663312051">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="397" y="173" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1644663312051" />
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2" timestamp="1647184619987">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="238" key="Vcs.Push.Dialog.v2/0.0.1680.1010@0.0.1680.1010" timestamp="1647184619987" />
+    <state x="989" y="275" key="refactoring.ChangeSignatureDialog" timestamp="1644663524916">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="989" y="275" key="refactoring.ChangeSignatureDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1644663524916" />
+    <state x="496" y="233" key="run.anything.popup" timestamp="1646830754200">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="496" y="233" key="run.anything.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1646830754200" />
+    <state x="943" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1647158289078">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="943" y="221" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1647158289078" />
+  </component>
+</project>

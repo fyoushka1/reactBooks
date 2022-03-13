@@ -1,0 +1,33 @@
+@import '../variables';
+
+.categories {
+  flex: 1 1 auto;
+  padding-right: 8px;
+  margin-bottom: 20px;
+  ul {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+    flex-wrap: wrap;
+    border-bottom: 1px solid #b3b3b3;
+    li {
+      font-size: 18px;
+      cursor: pointer;
+      padding: 10px 15px;
+      border-radius: 2px;
+      background: rgba(0,0,0,0.03);
+      border-bottom: 3px solid whitesmoke;
+      transition: all .2s ease;
+      &:hover {
+        background-color: darken(#f9f9f9, 10%);
+        transform: translateY(-2px);
+      }
+
+
+      &.active {
+        border-bottom: 3px solid #fe5f1e;
+        transform: scale(1.03);
+      }
+    }
+  }
+}
